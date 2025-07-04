@@ -23,12 +23,11 @@ This project simulates a fully differential amplifier using the TSMC 180nm CMOS 
 
 ## Transistor Sizing and Biasing
 
-- **Tail node current**: 150 μA
+- **Tail node current**: 50 μA
 - **W/L ratios**:
-  - M1, M2: 45 μm / 0.18 μm
-  - M3, M4: 9 μm / 0.18 μm
-  - M5 (Tail NMOS): 6 μm / 0.18 μm
-  - Load transistors (M6, M7): 12 μm / 0.18 μm
+  - M1, M2: 9
+  - M3, M4: 17
+  - M0, M00: 6
 
 ## Schematic
 ![Differential Amplifier Schematic](results/Circuit_Schematic.png)
@@ -59,7 +58,7 @@ This project simulates a fully differential amplifier using the TSMC 180nm CMOS 
 
 ## Schematic
 
-![Differential Amplifier Schematic](results/Circuit_Schematic.jpg)
+![Differential Amplifier Schematic](results/CircuitSchematic.jpg)
 
 ## Simulation Results
 
