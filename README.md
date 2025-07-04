@@ -29,10 +29,6 @@ This project simulates a fully differential amplifier using the TSMC 180nm CMOS 
   - M3, M4: 17
   - M0, M00: 6
 
-## Schematic
-![Differential Amplifier Schematic](results/Circuit_Schematic.png)
-
-
 ## How to Run
 
 1. Copy the model and symbol files to LTspice directories:
