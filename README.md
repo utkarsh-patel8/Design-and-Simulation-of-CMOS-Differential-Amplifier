@@ -31,9 +31,8 @@ This project simulates a fully differential amplifier using the TSMC 180nm CMOS 
   - Load transistors (M6, M7): 12 μm / 0.18 μm
 
 ## Schematic
+![Differential Amplifier Schematic](results/Circuit_Schematic.png)
 
-*(Placeholder – include schematic image in `results/` folder)*  
-`results/Circuit Schematic.png`
 
 ## How to Run
 
@@ -58,8 +57,18 @@ This project simulates a fully differential amplifier using the TSMC 180nm CMOS 
 
 5. Run the simulation in LTspice and observe outputs in the waveform viewer.
 
-## Screenshots
+## Schematic
 
-- `results/ACAnalysis.jpg` – Frequency response (AC sweep)
-- `results/TransientSimulation.jpg` – Time-domain output waveform
+![Differential Amplifier Schematic](results/Circuit_Schematic.png)
+
+## Simulation Results
+
+### AC Analysis
+
+![AC Response](results/ACAnalysis.png)
+
+### Transient Simulation
+
+![Transient Output](results/TransientSimulation.png)
+
 
