@@ -59,16 +59,16 @@ This project simulates a fully differential amplifier using the TSMC 180nm CMOS 
 
 ## Schematic
 
-![Differential Amplifier Schematic](results/Circuit_Schematic.png)
+![Differential Amplifier Schematic](results/Circuit_Schematic.jpg)
 
 ## Simulation Results
 
 ### AC Analysis
 
-![AC Response](results/ACAnalysis.png)
+![AC Response](results/ACAnalysis.jpg)
 
 ### Transient Simulation
 
-![Transient Output](results/TransientSimulation.png)
+![Transient Output](results/TransientSimulation.jpg)
 
 
